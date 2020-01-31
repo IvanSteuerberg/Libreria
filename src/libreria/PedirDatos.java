@@ -26,7 +26,7 @@ return b;
 public static String pedirString(){
 Scanner sc = new Scanner(System.in);    
 String c;
-System.out.println("Introduce un numero");
+System.out.println("Introduce un String");
 c = sc.next();
 return c;
 } 
